@@ -7,6 +7,8 @@ import io
 import requests
 import datetime
 
+
+##
 # ----------------- External Tools -----------------
 def get_weather(destination):
     """Fetch weather data using Open-Meteo API"""
